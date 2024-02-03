@@ -11,6 +11,12 @@ RESTful API using Java Spring to manage products in the goods store.
 - Repository - Data access layer
 - Service - Application logic layer
 - Controllers - Presentation layer
+## Technologies:
+- Java 17
+- Git
+- Apache Maven
+- MySQL
+- Spring Framework
 ## How to run:
 1) Run the SQL script in src/main/resources/init_db.sql to set up the store database
 2) Configure src/main/resources/application.properties with your database URL, username, password and driver
